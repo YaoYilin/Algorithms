@@ -1,6 +1,0 @@
-D:\Local work\leetcode\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
-D:\Local work\leetcode\Algorithms\Algorithms\bin\Debug\Algorithms.exe
-D:\Local work\leetcode\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
-D:\Local work\leetcode\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
-D:\Local work\leetcode\Algorithms\Algorithms\obj\Debug\Algorithms.exe
-D:\Local work\leetcode\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
