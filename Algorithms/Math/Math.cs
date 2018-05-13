@@ -17,7 +17,7 @@ namespace Algorithms.Math
                 y >>= 1;
                 if(x >= b)
                 {
-                    x = x - b;
+                    x -= b;
                     y |= m;
                 }
                 m >>= 2;
