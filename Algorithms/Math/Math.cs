@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Algorithms.Math
 {
-    public class Math
+    public static class Math
     {
         /// <summary>
         /// calculate the square value of a positive number greater than 0
