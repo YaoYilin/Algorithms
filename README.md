@@ -5,6 +5,7 @@
 ---
 
 ## Math
+* Math.PI
 * Math.Sqrt(uint x)
 * Math.Abs(int x)
 * Math.Averange(int x, int y)
